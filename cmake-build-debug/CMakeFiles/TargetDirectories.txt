@@ -1,0 +1,3 @@
+/home/emil/Projekty/CLionProjects/Pieciu filozofow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/emil/Projekty/CLionProjects/Pieciu filozofow/cmake-build-debug/CMakeFiles/Pieciu_filozofow.dir
+/home/emil/Projekty/CLionProjects/Pieciu filozofow/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/emil/Projekty/CLionProjects/Pieciu filozofow/main.cpp
+array
+-
+atomic
+-
+semaphore.h
+-
+zconf.h
+-
+
